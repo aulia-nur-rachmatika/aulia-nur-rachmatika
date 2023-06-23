@@ -5,7 +5,7 @@ My name is **Aulia Nur Rachmatika**.
 
 
 I'm a student majoring in informatics engineering at Universitas Islam Negeri Maulana Malik Ibrahim Malang semester 
-6. I'm currently interested in learning web development and mobile development using frameworks
+6. I'm currently interested in learning web development and mobile developmen
 
 
 This is my LinkedIn account [Linkedin] (https://www.linkedin.com/in/aulia-nur-rachmatika-3b490a1b4/)
