@@ -1,11 +1,10 @@
 ### Hello! 👋
 
 
-My name is **Aulia Nur Rachmatika**.
-
-
-I'm a student majoring in informatics engineering at Universitas Islam Negeri Maulana Malik Ibrahim Malang semester 
-7. I'm currently interested in learning web development and mobile development.
+I am **Aulia Nur Rachmatika**, a graduate in Informatics Engineering aspiring to become a dedicated **Quality Assurance (QA)**. I have 
+experience in software testing, particularly using Black Box Testing and Behavior Driven Development (BDD) techniques. Skilled in 
+managing testing systems and proficient in both manual and automated testing using tools such as Katalon Studio. I possess strong 
+analytical skills, attention to detail, and the ability to work effectively in dynamic team environments
 
 
 This is my LinkedIn account [Linkedin] (https://www.linkedin.com/in/aulia-nur-rachmatika-3b490a1b4/)
